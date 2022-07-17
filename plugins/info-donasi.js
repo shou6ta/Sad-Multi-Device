@@ -8,7 +8,7 @@ _*Pulsa/Pulse(Telkomsel):*_ 081389368689
 _*Dana/Gopay:*_ 081389368689/089530417506
 Setelah melakukan donasi kirim bukti pembayaran ke owner,Dengan melakukan donasi,kamu telah mensupport bot ini agar on 24 jam dan fast respon
 `
-conn.sendHydrated(m.chat, str, wm, pepe, 'https://github.com/FahriAdison/', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, str, wm, pepe, 'https://github.com/AzamXd', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝙼𝙴𝙽𝚄', '/menu']
 ], m)
 
