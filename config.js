@@ -9,11 +9,11 @@ global.owner = [
   ['+62 813-8936-8689'],
   ['+62 813-8936-8689'],
   ['+62 813-8936-8689'],
-  ['+62 813-8936-8689', 'Delluxe', true],
-  ['+62 813-8936-8689', 'Delluxe-Chan', true],
+  ['+62 813-8936-8689', 'Shou6ta', true],
+  ['+62 813-8936-8689', 'Shou6ta-Chan', true],
   ['+62 895 3041 7506', 'Bot', true],
-  ['+62 813-8936-8689', 'Johannes', true],
-  ['+62 813-8936-8689', 'Krisna', true],
+  ['+62 813-8936-8689', 'Shou6ta', true],
+  ['+62 813-8936-8689', 'Shou6ta', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -44,7 +44,7 @@ global.APIKeys = { // APIKey Here
 }
 global.wm = '                「 CELLINO BOT あ⁩ 」' //Main Watermark
 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DELLUXE - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Shou6ta - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
 global.wm3 = '⫹⫺ CELLINO 𝗕𝗢𝗧'
 
@@ -94,8 +94,8 @@ global.bg = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://teleg
 /*============== NOMOR ==============*/
 global.nomorbot = '62889530417506'
 global.nomorown = '+62 813-8936-8689'
-global.namebot = 'CELLINO-Bot'
-global.nameown = 'DELLUXE-Chan'
+global.namebot = 'Cellino-Bot'
+global.nameown = 'Shou6ta-Chan'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
